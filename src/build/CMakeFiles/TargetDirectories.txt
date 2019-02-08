@@ -1,0 +1,6 @@
+/home/jack/C_code/src/build/CMakeFiles/rebuild_cache.dir
+/home/jack/C_code/src/build/CMakeFiles/main_test.dir
+/home/jack/C_code/src/build/CMakeFiles/edit_cache.dir
+/home/jack/C_code/src/build/CMakeFiles/hashtab_test.dir
+/home/jack/C_code/src/build/CMakeFiles/main.dir
+/home/jack/C_code/src/build/CMakeFiles/queue_test.dir

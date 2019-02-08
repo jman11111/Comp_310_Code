@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jack/C_code/src/hashtab.cc
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+hashtab.h
+/home/jack/C_code/src/hashtab.h
+
+/home/jack/C_code/src/hashtab.h
+
+/home/jack/C_code/src/hashtab_test.cc
+gtest/gtest.h
+-
+hashtab.h
+/home/jack/C_code/src/hashtab.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g  -rdynamic CMakeFiles/queue_test.dir/queue_test.cc.o CMakeFiles/queue_test.dir/queue.cc.o  -o queue_test -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 

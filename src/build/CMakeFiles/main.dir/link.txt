@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g  -rdynamic CMakeFiles/main.dir/main.cc.o CMakeFiles/main.dir/queue.cc.o CMakeFiles/main.dir/hashtab.cc.o  -o main -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 
